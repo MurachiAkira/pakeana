@@ -500,3 +500,21 @@ Aruba ERM, CFM, EPL, GSM A-bis OML, GSM MAP, GSM RLC/MAC, GTPv2, IEEE 802.11, LL
 ###New and Updated Capture File Support
 
 There is no new or updated capture file support in this release.
+
+##Wireshark 1.12.8 Release Notes
+
+###New and Updated Features
+
+There are no new features in this release.
+
+###New Protocol Support
+
+There are no new protocols in this release.
+
+###Updated Protocol Support
+
+DIAMETER, GVCP, IEEE 802.11, IPv6, and UNISTIM
+
+###New and Updated Capture File Support
+
+and pcapng
